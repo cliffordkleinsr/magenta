@@ -3,6 +3,7 @@
 This repository is currently inactive and serves only as a supplement some of our papers. We have transitioned to using individual repositories for new projects. For our current work, see the [Magenta website](https://g.co/magenta) and [Magenta GitHub Organization](https://github.com/magenta).
 
 # Magenta
+I have changed the build functionalities of some packages to allow magenta to work. dont use the basic magenta workflow
 
 <img src="magenta-logo-bg.png" height="75">
 
