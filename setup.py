@@ -28,17 +28,15 @@ REQUIRED_PACKAGES = [
     'absl-py == 1.2.0',
     'dm-sonnet == 2.0.0',
     'imageio == 2.20.0',
-    'librosa == 0.7.2',
+    'librosa == 0.10.0',
     'matplotlib == 3.5.2',
     'mido == 1.2.6',
     'mir_eval == 0.7',
     'note-seq == 0.0.3',
-    'numba == 0.49.1',
-    'numpy == 1.21.6',
     'Pillow == 9.2.0',
     'pretty_midi == 0.2.9',
     'pygtrie == 2.5.0',
-    'python-rtmidi == 1.1.2',
+    'python-rtmidi == 1.4.9',
     'scikit-image == 0.19.3',
     'scipy == 1.7.3',
     'six == 1.16.0',
@@ -49,6 +47,7 @@ REQUIRED_PACKAGES = [
     'tensorflow-probability == 0.17.0',
     'tf_slim == 1.1.0',
     'wheel == 0.37.1',
+    'tensorflow_gan >= 2.1.0
 ]
 
 EXTRAS_REQUIRE = {
