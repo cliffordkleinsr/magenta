@@ -47,7 +47,7 @@ REQUIRED_PACKAGES = [
     'tensorflow-probability == 0.17.0',
     'tf_slim == 1.1.0',
     'wheel == 0.37.1',
-    'tensorflow_gan >= 2.1.0,
+    'tensorflow_gan >= 2.1.0',
 ]
 
 EXTRAS_REQUIRE = {
